@@ -1,16 +1,21 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://stock.adobe.com/search?k=pixcel" width="100%" />
+</p>
 
-<!--
-**manogna-9/manogna-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hey, i'm manogna 👋
 
-Here are some ideas to get you started:
+i like building things that solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+- 🐍 learning python
+- 🧩 solving dsa
+- 🎨 exploring ui/ux
+- 🗄️ learning dbms
+
+### recent activity
+☕ drinking coffee  
+🐛 fixing bugs  
+🚀 building projects  
+
+still learning.  
+still building.
